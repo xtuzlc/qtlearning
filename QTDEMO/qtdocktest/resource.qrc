@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rec/Add_File.png</file>
+        <file>rec/Delete_File.png</file>
+        <file>rec/Edit_File.png</file>
+        <file>rec/File.png</file>
+        <file>rec/Image_File.png</file>
+        <file>rec/View_File.png</file>
+    </qresource>
+</RCC>
